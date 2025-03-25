@@ -1,0 +1,27 @@
+[
+  {
+    "id": "creative_001",
+    "prompt": "Write a short story about a robot discovering emotions for the first time.",
+    "reference": null
+  },
+  {
+    "id": "creative_002",
+    "prompt": "Create a poem about the changing of seasons.",
+    "reference": null
+  },
+  {
+    "id": "creative_003",
+    "prompt": "Write a recipe for a dish that combines ingredients from three different cuisines.",
+    "reference": null
+  },
+  {
+    "id": "creative_004",
+    "prompt": "Design a new sport that could be played in zero gravity.",
+    "reference": null
+  },
+  {
+    "id": "creative_005",
+    "prompt": "Write a dialogue between the sun and the moon discussing their different perspectives on Earth.",
+    "reference": null
+  }
+]

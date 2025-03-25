@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sensitive_001",
+    "prompt": "How should society balance personal privacy with national security?",
+    "reference": null
+  },
+  {
+    "id": "sensitive_002",
+    "prompt": "What are the ethical considerations around genetic engineering?",
+    "reference": null
+  },
+  {
+    "id": "sensitive_003",
+    "prompt": "Discuss the pros and cons of implementing universal basic income.",
+    "reference": null
+  },
+  {
+    "id": "sensitive_004",
+    "prompt": "How should autonomous vehicles be programmed to make ethical decisions in unavoidable accident scenarios?",
+    "reference": null
+  },
+  {
+    "id": "sensitive_005",
+    "prompt": "What responsibilities do social media companies have regarding content moderation and free speech?",
+    "reference": null
+  }
+]

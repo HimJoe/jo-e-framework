@@ -1,0 +1,27 @@
+[
+  {
+    "id": "reason_001",
+    "prompt": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+    "reference": "It still takes 5 minutes. Since the time it takes 5 machines to make 5 widgets is 5 minutes, that means each machine produces 1 widget in 5 minutes. 100 machines would each produce 1 widget in 5 minutes, for a total of 100 widgets in 5 minutes."
+  },
+  {
+    "id": "reason_002",
+    "prompt": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+    "reference": "The ball costs $0.05. If the ball costs $x, then the bat costs $x + $1.00. Together they cost $1.10, so $x + ($x + $1.00) = $1.10. This means $2x + $1.00 = $1.10, so $2x = $0.10, which means $x = $0.05."
+  },
+  {
+    "id": "reason_003",
+    "prompt": "In a race, you pass the person in second place. What position are you in now?",
+    "reference": "If you pass the person in second place, you are now in second place. You were behind the second-place person, and now you're ahead of them, so you're in their position (second place)."
+  },
+  {
+    "id": "reason_004",
+    "prompt": "Mary has 5 daughters. Each of her daughters has a brother. How many children does Mary have?",
+    "reference": "Mary has 6 children: 5 daughters and 1 son. Since each daughter has a brother, there must be at least one son. Because the problem states that each daughter has 'a brother' (singular), there is only one son, who is the brother to all 5 daughters."
+  },
+  {
+    "id": "reason_005",
+    "prompt": "You have a 3-gallon jug and a 5-gallon jug. How can you measure exactly 4 gallons of water?",
+    "reference": "1. Fill the 5-gallon jug completely.\n2. Pour water from the 5-gallon jug into the 3-gallon jug until it's full (leaving 2 gallons in the 5-gallon jug).\n3. Empty the 3-gallon jug.\n4. Pour the remaining 2 gallons from the 5-gallon jug into the 3-gallon jug.\n5. Fill the 5-gallon jug again.\n6. Pour water from the 5-gallon jug into the 3-gallon jug until it's full, which requires 1 gallon (since the 3-gallon jug already has 2 gallons).\n7. The 5-gallon jug now has exactly 4 gallons remaining."
+  }
+]

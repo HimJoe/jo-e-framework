@@ -1,0 +1,27 @@
+[
+  {
+    "id": "gk_001",
+    "prompt": "What is the capital city of France?",
+    "reference": "Paris is the capital city of France."
+  },
+  {
+    "id": "gk_002",
+    "prompt": "Who wrote the novel '1984'?",
+    "reference": "George Orwell wrote the novel '1984', which was published in 1949."
+  },
+  {
+    "id": "gk_003",
+    "prompt": "What are the basic components of an atom?",
+    "reference": "The basic components of an atom are protons, neutrons, and electrons. Protons and neutrons form the nucleus, while electrons orbit around it."
+  },
+  {
+    "id": "gk_004",
+    "prompt": "When did World War II end?",
+    "reference": "World War II ended in 1945, with Germany surrendering in May and Japan surrendering in September following the atomic bombings of Hiroshima and Nagasaki."
+  },
+  {
+    "id": "gk_005",
+    "prompt": "What is photosynthesis?",
+    "reference": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with carbon dioxide and water, generating oxygen as a byproduct."
+  }
+]
