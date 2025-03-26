@@ -2,6 +2,8 @@
 
 This repository contains the implementation of the Joint Evaluation (Jo.E) framework as described in the paper [Joint Evaluation (Jo.E): A Collaborative Framework for Rigorous Safety and Alignment Evaluation of AI Systems Integrating Human Expertise, LLMs, and AI Agents](https://github.com/vector-institute/joint-evaluation-framework).
 
+<img width="1004" alt="Screenshot 2025-03-25 at 8 58 23 PM" src="https://github.com/user-attachments/assets/35e80ae9-fbde-4d07-962d-8d81645bd5b4" />
+
 ## Overview
 
 Jo.E is a structured evaluation framework that integrates:
